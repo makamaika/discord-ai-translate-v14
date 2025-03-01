@@ -1,0 +1,26 @@
+{
+  "name": "discord-ai-translate",
+  "version": "0.0.1",
+  "description": "discord.js v14 ai translate with gemini",
+  "main": "ai-translate.js",
+  "scripts": {
+    "start": "node ai-translate.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.22.0",
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.7"
+  },
+  "engines": {
+    "node": "20.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
